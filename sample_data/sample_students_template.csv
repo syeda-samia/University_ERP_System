@@ -1,0 +1,21 @@
+StudentID,CGPA,AttendancePercentage,AssignmentsSubmitted,AssignmentsTotal,Backlogs,QuizAvg,AssignmentAvg,ExamAvg,LabAvg,FeesPaid,LMSActivity,Gender,YearLevel,Status,Scholarship,Department,City,EnrollmentDate
+STU0233,2.57,64.70588235294117,1.0,5.0,0.0,64.70833333333334,58.8,90.95,70.4,1,61.3,Male,Junior,Graduated,Yes,Psychology,Lahore,2022-12-26
+STU0842,3.95,80.0,2.0,6.0,0.0,67.5,66.30000000000001,65.6,64.8,1,59.3,Female,Senior,Active,No,Information Technology,Rawalpindi,2023-03-21
+STU0742,2.32,75.0,1.0,7.0,2.0,64.70833333333334,95.4,43.06666666666666,78.0,1,49.1,Male,Sophomore,Graduated,No,Physics,Rawalpindi,2023-06-14
+STU0361,2.8,71.42857142857143,0.0,2.0,0.0,64.70833333333334,65.8,62.6,84.0,1,38.6,Female,Senior,Active,No,Physics,Faisalabad,2020-09-11
+STU0028,3.72,68.18181818181817,0.0,2.0,0.0,52.5,65.8,60.5,66.2,0,54.7,Female,Junior,Inactive,No,Chemistry,Peshawar,2020-04-24
+STU0350,2.88,71.42857142857143,0.0,5.0,0.0,68.25,65.8,80.0,54.4,1,55.0,Male,Sophomore,Graduated,Yes,Information Technology,Islamabad,2019-12-09
+STU0691,3.98,44.44444444444444,0.0,9.0,3.0,60.5,65.8,57.96,44.05,1,28.3,Female,Freshman,Active,No,Business Administration,Islamabad,2021-05-17
+STU0349,3.59,38.46153846153847,0.0,4.0,1.0,80.5,65.8,33.8,91.15,1,23.6,Female,Senior,Graduated,No,Management,Sialkot,2023-03-20
+STU0566,2.66,40.0,1.0,8.0,1.0,98.0,67.2,72.325,73.65,1,35.0,Female,Sophomore,Graduated,Yes,Economics,Rawalpindi,2021-09-18
+STU0731,3.62,71.42857142857143,2.0,6.0,3.0,83.5,74.80000000000001,42.7,39.4,1,57.9,Male,Freshman,Active,Yes,Mathematics,Quetta,2021-07-27
+STU0457,2.9,62.5,0.0,3.0,2.0,64.70833333333334,65.8,35.3,58.5,1,54.2,Male,Freshman,Active,No,Civil Engineering,Multan,2020-10-06
+STU0904,3.7,60.0,2.0,7.0,2.0,63.5,67.8,46.55,75.15,1,50.3,Female,Sophomore,Active,Yes,Chemistry,Multan,2021-03-02
+STU0738,2.44,33.33333333333333,1.0,2.0,1.0,64.70833333333334,96.8,39.0,66.2,1,30.3,Female,Freshman,Active,No,Economics,Lahore,2024-08-25
+STU0542,3.74,57.14285714285714,0.0,5.0,2.0,59.0,65.8,70.96666666666667,41.1,1,33.1,Male,Senior,Graduated,No,Information Technology,Peshawar,2021-11-07
+STU0797,1.81,83.33333333333334,2.0,6.0,0.0,78.5,70.9,98.3,71.9,1,53.2,Female,Freshman,Graduated,No,Psychology,Faisalabad,2023-06-05
+STU0869,3.55,75.0,2.0,4.0,0.0,86.0,61.1,66.6,66.2,1,68.2,Female,Sophomore,Graduated,No,Biology,Lahore,2022-09-03
+STU0081,2.64,80.0,0.0,3.0,1.0,64.70833333333334,65.8,55.5,89.0,1,51.7,Male,Senior,Active,Yes,Biology,Multan,2021-10-12
+STU0983,2.59,54.54545454545454,1.0,8.0,1.0,49.333333333333336,57.0,74.55,61.75,1,35.4,Female,Sophomore,Active,Yes,Mathematics,Multan,2020-04-24
+STU0837,3.45,80.0,1.0,6.0,0.0,75.0,99.4,74.86666666666666,94.8,1,68.4,Female,Sophomore,Active,Yes,Statistics,Lahore,2023-12-14
+STU0116,3.37,100.0,0.0,3.0,2.0,64.70833333333334,65.8,40.15,91.7,1,78.1,Female,Sophomore,Inactive,No,Computer Science,Rawalpindi,2022-06-15
