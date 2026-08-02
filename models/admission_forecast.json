@@ -1,0 +1,60 @@
+{
+  "historical": [
+    {
+      "year": 2019,
+      "students": 62
+    },
+    {
+      "year": 2020,
+      "students": 192
+    },
+    {
+      "year": 2021,
+      "students": 192
+    },
+    {
+      "year": 2022,
+      "students": 193
+    },
+    {
+      "year": 2023,
+      "students": 231
+    },
+    {
+      "year": 2024,
+      "students": 130
+    }
+  ],
+  "forecast": [
+    {
+      "year": 2025,
+      "yhat": 213.0,
+      "yhat_lower": 145.0,
+      "yhat_upper": 270.0
+    },
+    {
+      "year": 2026,
+      "yhat": 226.0,
+      "yhat_lower": 156.0,
+      "yhat_upper": 291.0
+    },
+    {
+      "year": 2027,
+      "yhat": 239.0,
+      "yhat_lower": 172.0,
+      "yhat_upper": 302.0
+    },
+    {
+      "year": 2028,
+      "yhat": 252.0,
+      "yhat_lower": 186.0,
+      "yhat_upper": 315.0
+    },
+    {
+      "year": 2029,
+      "yhat": 265.0,
+      "yhat_lower": 204.0,
+      "yhat_upper": 328.0
+    }
+  ]
+}
