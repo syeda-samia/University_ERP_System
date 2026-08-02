@@ -86,6 +86,33 @@ CUSTOM_CSS = """
         padding: 1rem;
         margin: 0.5rem 0;
     }
+    /* Hide Streamlit menu, header and footer */
+#MainMenu {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+/* Hide GitHub / Deploy button in top-right */
+[data-testid="stToolbar"] {
+    display: none;
+}
+
+/* Hide decoration */
+[data-testid="stDecoration"] {
+    display: none;
+}
+
+/* Hide status widget */
+[data-testid="stStatusWidget"] {
+    display: none;
+}
 </style>
 """
 st.markdown(CUSTOM_CSS, unsafe_allow_html=True)
